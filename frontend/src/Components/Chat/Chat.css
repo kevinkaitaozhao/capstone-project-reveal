@@ -1,0 +1,73 @@
+div.col.s5.chat-details {
+  padding-right: 0;
+}
+
+div.row {
+  margin-bottom: 0;
+}
+
+.chat-details {
+  height: 100vh;
+  -webkit-box-shadow: 5px 0px 5px -3px #616161;
+    box-shadow: 5px 0px 5px -3px #616161;
+}
+
+.chat-event-title {
+  font-size: 2rem;
+  margin: 1rem 0;
+  padding: 0 1rem;
+}
+
+.chat-event-date {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+  padding: 0 1rem;
+}
+
+.chat-event-description {
+  padding: 0 1rem;
+}
+
+div.col.s7.chatbox {
+  padding-left: 0.1rem;
+  padding-right: 0;
+}
+
+.card-panel {
+  padding: 0px 10px;
+  margin: 0;
+}
+
+.chat-contacts {
+  height: 15vh;
+}
+
+.chat-messages {
+  height: 72vh;
+  padding-top: 10rem;
+}
+
+.chat-message {
+  font-size: 2rem;
+  padding: 0 4rem;
+  margin: 0;
+}
+
+.chat-input {
+  padding-left: 0;
+  height: 10vh;
+}
+
+div.col.input-field.s12,
+div.col.s10 {
+  padding-right: 0;
+}
+
+.btn {
+  margin-top: 1.5rem;
+}
+
+.back-link {
+  margin: 1rem;
+  float: right;
+}

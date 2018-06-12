@@ -1,0 +1,25 @@
+.my-events {
+  height: 100vh;
+  overflow: auto;
+  -webkit-box-shadow: -5px 0px 5px -3px #616161;
+    box-shadow: -5px 0px 5px -3px #616161;
+}
+
+.liked-event {
+  padding: 10px 0;
+  margin-bottom: 0;
+}
+
+.liked-event:hover {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.liked-img {
+  border-radius: 50%;
+}
+
+.liked-name,
+.liked-time {
+  margin-top: 0;
+  margin-bottom: 0;
+}

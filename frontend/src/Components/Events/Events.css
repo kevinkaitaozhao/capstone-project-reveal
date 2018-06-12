@@ -1,0 +1,26 @@
+.event-nav {
+  height: 45px;
+  line-height: 45px;
+  font-weight: bold;
+  padding: 0 10px 0 20px;
+  background: transparent;
+}
+
+.event-nav .brand-logo{
+  color: black;
+}
+
+.my-events-header {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: black;
+  margin: 1.5rem 0;
+}
+
+.event-container {
+  margin-bottom: 0;
+}
+
+.results-chat-container {
+  height: 100vh;
+}
