@@ -6,7 +6,7 @@ const bodyParser = require('body-parser')
 
 const knexConfig = require('./knexfile')
 const knex = require('knex')(knexConfig)
-const bookshelf = require('bookshelf')(knex)
+const bookshelf = require('bookshelf')(knex) 
 
 // middleware
 app.use(bodyParser.urlencoded({ extended: false }))
