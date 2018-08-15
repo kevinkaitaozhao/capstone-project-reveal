@@ -1,18 +1,17 @@
 # Reveal
 
-One Paragraph of project description goes here
+Reveal is an event discovery app that allows users to find events happening in their city at random, perfect for when users don't have any particular event in mind! Choose a city and event category, and start flipping through random events one by one in a Tinder-like fashion. Start revealing events you otherwise wouldn't know about!
 
 ## Demo
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Demo coming
 
-### Features
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+## Features
++ Search for events by major city and event category
++ Search for all events types in a major city
++ Discover events and find additional information 
++ Save events in personal queue or pass to view more events
++ Select a saved event to create a chatroom with friends dedicated solely to that particular event (working)
 
 ## Built With
 
