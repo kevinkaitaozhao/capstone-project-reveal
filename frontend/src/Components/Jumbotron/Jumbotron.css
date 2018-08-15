@@ -10,7 +10,7 @@
 .nav ul a {
   font-size: 1.1rem;
 }
-
+ 
 .selection-panel {
   margin-top: 10rem;
   padding-bottom: 6rem;
@@ -32,10 +32,6 @@
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 2rem;
   color: white;
-}
-
-.margin-right {
-  margin-right: 1rem;
 }
 
 .select-wrapper input.select-dropdown {

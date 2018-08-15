@@ -12,7 +12,7 @@ class Jumbotron extends Component {
       handleCitySelect,
       handleCatSelect
     } = this.props
-    return (
+    return ( 
       <div className="jumbotron">
         <Navbar className="nav" brand="reveal" right></Navbar>
         <div className="selection-panel">

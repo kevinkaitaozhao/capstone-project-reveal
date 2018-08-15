@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import './HomeBody.css';
 
-class HomeBody extends Component {
+class HomeBody extends Component { 
   render() {
     const { cityCardsJSX } = this.props
     return (

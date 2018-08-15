@@ -13,7 +13,7 @@ class CityCard extends Component {
   render() {
     const { city } = this.props
     return (
-      <div className="col m12 l4">
+      <div className="col s12 m6 l4">
         <Link to="/app/events" onClick={this.handleCityClick}>
           <Card className='small' header={<CardTitle image={city.imgUrl}></CardTitle>}>
             <h3 className="city-name center-align">{city.name}</h3>
