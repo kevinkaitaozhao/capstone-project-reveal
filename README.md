@@ -9,7 +9,20 @@ Reveal is an event discovery app that allows users to find events happening in t
 <img src="/frontend/public/assets/gifs/homepage-search.gif">
 </div>
 
-Demo coming
+### More Information for Events
+<div style="align: center">
+<img src="/frontend/public/assets/gifs/event-description.gif">
+</div>
+
+### Passing and Liking Events
+<div style="align: center">
+<img src="/frontend/public/assets/gifs/event-pass-like.gif">
+</div>
+
+### Opening Message Center for a Liked Event
+<div style="align: center">
+<img src="//frontend/public/assets/gifs/share-event.gif">
+</div>
 
 ## Features
 + Search for events by major city and event category
