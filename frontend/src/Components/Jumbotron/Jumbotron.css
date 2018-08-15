@@ -17,7 +17,7 @@
 }
 
 .jumbotron {
-  background-image: url('/images/jumbotron-banner.png');
+  background-image: url('/assets/images/jumbotron-banner.png');
   background-size: cover;
   background-position: right 0% bottom 10%;
 }

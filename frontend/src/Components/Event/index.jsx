@@ -34,7 +34,7 @@ class Event extends Component {
 
     //handle if event from api does not have an image
     function eventImageError(eventImage) {
-      return (eventImage ? event.logo.original.url : "/images/noimage.png");
+      return (eventImage ? event.logo.original.url : "/assets/images/noimage.png");
     }
 
     //format event date

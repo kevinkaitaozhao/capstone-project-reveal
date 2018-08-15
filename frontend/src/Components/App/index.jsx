@@ -16,39 +16,39 @@ class App extends Component {
       cities: [
         {
           name: 'Vancouver',
-          imgUrl: '/images/cities/vancouver.jpg'
+          imgUrl: '/assets/images/cities/vancouver.jpg'
         },
         {
           name: 'Toronto',
-          imgUrl: '/images/cities/toronto.jpg'
+          imgUrl: '/assets/images/cities/toronto.jpg'
         },
         {
           name: 'Seattle',
-          imgUrl: '/images/cities/seattle.jpg'
+          imgUrl: '/assets/images/cities/seattle.jpg'
         },
         {
           name: 'San Francisco',
-          imgUrl: '/images/cities/sanfrancisco.jpg'
+          imgUrl: '/assets/images/cities/sanfrancisco.jpg'
         },
         {
           name: 'Los Angeles',
-          imgUrl: '/images/cities/losangeles.jpg'
+          imgUrl: '/assets/images/cities/losangeles.jpg'
         },
         {
           name: 'Chicago',
-          imgUrl: '/images/cities/chicago.jpg'
+          imgUrl: '/assets/images/cities/chicago.jpg'
         },
         {
           name: 'New York City',
-          imgUrl: '/images/cities/newyorkcity.jpg'
+          imgUrl: '/assets/images/cities/newyorkcity.jpg'
         },
         {
           name: 'Boston',
-          imgUrl: '/images/cities/boston.jpg'
+          imgUrl: '/assets/images/cities/boston.jpg'
         },
         {
           name: 'Washington D.C.',
-          imgUrl: '/images/cities/washingtondc.jpg'
+          imgUrl: '/assets/images/cities/washingtondc.jpg'
         }
       ],
       categories: [
