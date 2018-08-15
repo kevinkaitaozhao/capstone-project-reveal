@@ -4,6 +4,11 @@ Reveal is an event discovery app that allows users to find events happening in t
 
 ## Demo
 
+### Homepage and Searching for Events
+<div style="align: center">
+<img src="/frontend/public/assets/gifs/homepage-search.gif">
+</div>
+
 Demo coming
 
 ## Features
