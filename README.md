@@ -21,7 +21,7 @@ Reveal is an event discovery app that allows users to find events happening in t
 
 ### Opening Message Center for a Liked Event
 <div style="align: center">
-<img src="//frontend/public/assets/gifs/share-event.gif">
+<img src="/frontend/public/assets/gifs/share-event.gif">
 </div>
 
 ## Features
